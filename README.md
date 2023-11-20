@@ -18,6 +18,7 @@ This is a simple Todo app built using React and Firebase.
 -   **React:** Popular JavaScript library for building user interfaces.
 -   **Vite:** Build tool for fast and efficient development.
 -   **Firebase:** Real-time data storage and synchronization.
+-   **Tailwind CSS:** Styling with a utility-first CSS framework.
 
 ## Getting Started
 
