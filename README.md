@@ -53,3 +53,9 @@ This is a simple Todo app built using React and Firebase.
     `http://localhost:5173`
 
 Feel free to explore, add, edit, and delete todos!
+
+## Deployment
+
+When we build an app using the Firebase service, we can deploy it to
+[Netlify](https://app.netlify.com/) as well. There's no need to deploy it to
+Firebase hosting.
